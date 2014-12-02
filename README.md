@@ -3,6 +3,6 @@
 
 Pacote de instalação para sistema desktop.
 
-![](http://marcosjunior.hol.es/sistema-web/tela-ins.jpg)
+![](http://marcosjunior.hol.es/git-hub/prototype-instalador.png)
 
 
